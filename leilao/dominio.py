@@ -1,6 +1,5 @@
 import sys
 
-
 class Usuario:
 
     def __init__(self, nome):
